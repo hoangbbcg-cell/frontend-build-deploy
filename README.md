@@ -74,3 +74,5 @@ export default defineConfig([
 
 ```
 Learning Git Merge
+
+MERGE PRACTICE

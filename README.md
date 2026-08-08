@@ -76,3 +76,5 @@ export default defineConfig([
 Learning Git Merge
 
 MERGE PRACTICE
+
+Version 2 - Updated by A

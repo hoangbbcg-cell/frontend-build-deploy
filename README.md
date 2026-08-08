@@ -75,3 +75,6 @@ export default defineConfig([
 ```
 Learning Git Merge - Login Feature
 MERGE PRACTICE
+
+Version 2 - Updated by A
+

@@ -5,10 +5,12 @@ import heroImg from './assets/hero.png'
 import './App.css'
 
 function App() {
+  const apiUrl = import.meta.env.VITE_API_URL;
   const [count, setCount] = useState(0)
 
   return (
     <>
+    <p>API URL: {apiUrl}</p>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />

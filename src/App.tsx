@@ -1,5 +1,6 @@
 function App(){
-  return <h1>💥 PRODUCTION BUG TEST</h1>
+  return <h2>đã học sửa push cicd</h2>
+  
 }
 
 export default App

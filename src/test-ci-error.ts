@@ -1,2 +1,5 @@
-// ❌ Cố tình gán kiểu string cho biến number để test CI
-export const userAge: number = "hai muoi tuoi";
+// ❌ Dòng cũ bị lỗi:
+// export const userAge: number = "hai muoi tuoi";
+
+// ✅ Dòng mới đã sửa đúng kiểu number:
+export const userAge: number = 20;
